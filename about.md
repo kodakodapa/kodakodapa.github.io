@@ -10,9 +10,9 @@ This is a personal blog built with Jekyll and GitHub Pages, featuring a Solarize
 
 ## About Me
 
-Working in tech for a decade and a half. Currently a tech lead for medium sized platform, but soon I intend to doing freelance consulting again.
+Working in tech for a decade and a half. Currently a tech lead for medium sized platform, but soon I intend to return to freelance consulting after a parental leave.
 
-Having and LLM as a helper when learning and coding has made it fun and feasible to get some decent progress in the small amount of time that I have as a father of two lively girls.
+Having an LLM as a helper when learning and coding has made it fun and feasible to get some decent progress done in the small amount of time that I have as a father of two lively girls.
 
 Currently doing a computer graphics renderer using GPUs, focused on fractals, in Kotlin. Cause it's fun and I want to learn Kotlin. Also some other personal FE projects. 
 

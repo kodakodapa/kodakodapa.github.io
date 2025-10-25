@@ -1,7 +1,7 @@
-title: My Blog
-description: A personal blog with Solarized Light theme
-author: Your Name
-email: your.email@example.com
+title: Weekly learnings
+description: About tech and working with tech.
+author: Björn
+
 
 # Build settings
 markdown: kramdown

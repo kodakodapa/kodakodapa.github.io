@@ -5,7 +5,7 @@ date: 2025-10-25
 author: Björn
 ---
 
-Welcome!
+Welcome to my blog for learning.
 
 ## About This Blog
 

@@ -2,6 +2,8 @@ title: Weekly learnings
 description: About tech and working with tech.
 author: Björn
 
+# Publish posts with future dates
+future: true
 
 # Build settings
 markdown: kramdown

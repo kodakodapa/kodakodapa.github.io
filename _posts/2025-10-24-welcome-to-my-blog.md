@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writings - tech and adjancent topics"
-date: 2025-10-25
+date: 2025-10-24
 author: Björn
 ---
 

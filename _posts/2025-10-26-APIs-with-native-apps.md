@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "APIs catering to native apps and web"
-date: 2025-10-27
+date: 2025-10-28
 author: Björn
 ---
 

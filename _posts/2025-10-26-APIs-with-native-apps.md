@@ -10,7 +10,7 @@ A challenge I've come across a few times is that of supporting both web and nati
 
 
 ## App Version Adoption Pattern
-This is an illustration of how app version might be rolled out, and how many still user old versions
+This is an illustration of how an app version might be rolled out, and how many still user old versions
 
 | Time After Release | Latest Version | Previous Version | 2 Versions Old | 3+ Versions Old |
 |-------------------|----------------|------------------|----------------|-----------------|

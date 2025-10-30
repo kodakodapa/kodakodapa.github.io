@@ -5,8 +5,11 @@ date: 2025-10-28
 author: Björn
 ---
 
+Supporting challenge both web and native apps in the same API comes with some special consideratins.
 
-A challenge I've come across a few times is that of supporting both web and native apps in the same API. The difficulty mainly stems from the fact that it takes a long time to get a new app version in peoples hands, so old versions tend to exist out there for a long time. So if you need to update for example some copy, or change how a flow or particular endpoints work you can't just update the web and BE at the same time and be done with it.
+
+## The challenge
+The difficulty mainly stems from the fact that it takes a long time to get a new app version in peoples hands, so old versions tend to exist out there for a long time. So if you need to update for example some copy, or change how a flow or particular endpoints work you can't just update the web and BE at the same time and be done with it.
 
 
 ## App Version Adoption Pattern

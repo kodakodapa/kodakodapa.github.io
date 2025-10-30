@@ -11,9 +11,6 @@ Welcome to my blog for learning.
 
 Here I inted to post writings every once in a while, mainly as a tool for my own learning, about tech and working in/with tech. I don't expect anyone to read it except the occasional CV evaluator (hi!).
 
-This blog is powered by [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). The color scheme uses the popular Solarized Light.
-
-
 
 ## What's Next?
 

@@ -3,12 +3,7 @@ layout: default
 title: About
 permalink: /about/
 ---
-
-# About
-
-This is a personal blog built with Jekyll and GitHub Pages, featuring a Solarized Light theme.
-
-## About Me
+## About 
 
 Working in tech for a decade and a half. Currently a tech lead for medium sized platform, but soon I intend to return to freelance consulting after a parental leave.
 

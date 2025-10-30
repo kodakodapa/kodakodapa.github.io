@@ -5,7 +5,7 @@ date: 2025-10-28
 author: Björn
 ---
 
-Supporting both web and native apps in the same API comes with some special consideratins.
+Supporting both web and native apps in the same API comes with some special considerations.
 
 
 ## The challenge

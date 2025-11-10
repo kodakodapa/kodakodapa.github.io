@@ -9,11 +9,10 @@ title: Home
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
+        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h2>
-        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
-        <p>{{ post.excerpt }}</p>
       </li>
     {% endfor %}
   </ul>

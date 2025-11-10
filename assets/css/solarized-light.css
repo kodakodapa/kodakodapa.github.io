@@ -303,7 +303,24 @@ hr {
 }
 
 .post-list li {
-  margin-bottom: var(--spacing);
+  margin-bottom: calc(var(--spacing) * 1.5);
+  padding-bottom: calc(var(--spacing) * 0.75);
+  border-bottom: 1px solid rgba(248, 235, 238, 0.15);
+}
+
+.post-list li:last-child {
+  border-bottom: none;
+}
+
+.post-list .post-meta {
+  margin-bottom: calc(var(--spacing) / 4);
+  font-size: calc(var(--size-step-0) * 0.9);
+  opacity: 0.8;
+}
+
+.post-list h2 {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .post-list .post-link {
@@ -314,4 +331,47 @@ hr {
 
 .post-list .post-link:hover {
   color: var(--color-primary);
+}
+
+/* GitHub repos styling */
+.repo-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.repo-item {
+  margin-bottom: calc(var(--spacing) * 1.5);
+  padding-bottom: calc(var(--spacing) * 0.75);
+  border-bottom: 1px solid rgba(248, 235, 238, 0.15);
+}
+
+.repo-item:last-child {
+  border-bottom: none;
+}
+
+.repo-item h3 {
+  margin-top: 0;
+  margin-bottom: calc(var(--spacing) / 3);
+}
+
+.repo-link {
+  color: var(--color-dark);
+  font-weight: bold;
+}
+
+.repo-link:hover {
+  color: var(--color-primary);
+}
+
+.repo-description {
+  margin-top: calc(var(--spacing) / 3);
+  margin-bottom: calc(var(--spacing) / 3);
+  font-size: var(--size-step-0);
+}
+
+.repo-meta {
+  font-size: calc(var(--size-step-0) * 0.85);
+  font-style: italic;
+  opacity: 0.8;
+  margin-bottom: 0;
 }
